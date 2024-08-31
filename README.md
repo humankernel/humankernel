@@ -1,3 +1,4 @@
 
-
-![banner](banner.webp)
+<p align="center">
+    <img src="banner.webp"/>
+</p>
