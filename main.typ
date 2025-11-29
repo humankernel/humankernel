@@ -26,7 +26,7 @@
 == Education
 
 #edu(
-  institution: "University of Informatics Sciences",
+  institution: "Universidad de las Ciencias Informáticas",
   location: "Havana, CU",
   dates: dates-helper(start-date: "Feb 2022", end-date: "Jul 2025"),
   degree: "Bachelor’s in Computer Science and Engineering (CSE)",
@@ -54,7 +54,7 @@
 #work(
   title: "Teaching Assistant – Machine Learning",
   location: "Havana, CU",
-  company: "University of Informatics Sciences",
+  company: "Universidad de las Ciencias Informáticas",
   dates: dates-helper(start-date: "Sep 2025", end-date: "Present"),
 )
 - Delivered practical sessions on machine learning workflows, Python, NumPy, pandas, and Scikit-Learn.
